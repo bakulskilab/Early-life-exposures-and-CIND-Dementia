@@ -8,7 +8,10 @@ Result: In the analytic sample, 5.3% had incident dementia and 14.5% cognitive i
 
 Conclusion: Exposures and conditions originating in early life may be important risk factors for later onset of dementia, extending the relevant window of susceptibility. Longitudinal research may be subject to challenges related to recall of information and differential survival and follow-up studies are needed. 
 
-Script files 
+Script files:
+
 ELE_data_prep_smc_2023: data cleaning and variable creation 
+
 ELE_flowchart_descriptives_smc_08102023: table and figure creation
+
 ELE_regression_smc_8212023: statistical analysis - logistic regression 
